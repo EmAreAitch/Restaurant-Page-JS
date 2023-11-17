@@ -1,0 +1,19 @@
+@import '../node_modules/bulma/css/bulma.min.css';
+
+.navbar-item {
+    width: 25%;
+    justify-content: center;
+}
+
+.navbar {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.columns {
+    width: 100% !important;
+}
+
+.box {
+    padding-left: 30%;
+    padding-right: 30%;
+}
